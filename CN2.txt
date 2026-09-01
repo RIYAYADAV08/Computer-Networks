@@ -1,0 +1,52 @@
+Types of Data flow:
+Simplex- One way communication
+Eg-Keyboard to CPU   
+
+Half-Duplex- Two way communication but only one direction at a time.
+Eg- Walkie-Talkie
+
+Full-Duplex- Two way communication simultaneously.
+Eg- Telephone
+
+
+Types of Networks
+Types Of Networks   PEE LE Can Mirinda Wala
+PAN(Personal Area Network)
+A small network for one person.
+Technology- Bluetooth, IRDa, Zigbee
+Range- 1-100m
+Transmission speed- Very high
+Area- Within a room
+Ownership- Private
+Maintenance- Very Easy
+Error rate and Cost- Very low
+
+LAN(Local Area Network)
+A network inside one building or office.
+Technology- Ethernet, Wi-Fi
+Range- Upto 2 km.
+Transmission speed- Very high
+Area- Within office bhuilding
+Ownership- Private'
+Maintenance- Easy
+Error rate and Cost- Low
+
+CAN(Campus Area Network)
+A network inside building or campus.
+Technology- Ethernet, Wi-Fi, Fibre Optics
+Range- 1-5km.
+Transmission speed- High
+Area- Within University,office etc.
+Ownership- Private
+Maintenance- Moderate
+Error rate and Cost- Moderate
+
+MAN(Metropolitan Area Network)
+A network that covers one city
+Technology- Ethernet, Wi-Fi, Fibre Optics
+Range- 5-50km.
+Transmission speed- Average
+Area- Within cities
+Ownership- Private
+Maintenance- Difficult
+Error rate and Cost- 
