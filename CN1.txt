@@ -1,105 +1,52 @@
 Computer Networks
-A computer network is a group of interconnected nodes(devices) that share resources and 
-information via communication links.
+A computer network is a group of interconnected nodes(devices) that share resources and information via communication links.
 
-Node
+Node   
 A node is a device capable of sending and receiving data.
-End Nodes- PC, Printer, Server, SmartPhone
+End nodes- PC, Printer, Server, SmartPhone
 Intermediary Nodes- Router, Bridge, Modem
-End nodes uses the data.
-Intermediate nodes forwards the data.
+End nodes- uses the data.
+Intermediary nodes- forwards the data.
 
-Communication link
+Communication Link  
 A communication link is a medium to transfer data.
-Types: Wired(Coaxial Cables)
-Wireless(Wifi, Bluetooth etc.)
+Types:
+Wired(coaxial cables)
+Wireless(Wi-fi, Bluetooth etc.)
 
-Uses of Computer Networks
-Communication 
+Uses of a Computer Networks
+Communication
 Resource Sharing
-Remote access
+Remote Access
 Collaboration
 Education
 E-commerce
 Entertainment
 
 Characteristics of Computer Networks
-Fault Tolerance(Continues to work despite failures)
-Scalability(Add devices without degrading performance)
-Quality Of Service(Network works smoothly without delays)
-Security(Protection from Unauthorized access)
+1.Fault Tolerance(Continues to work despite failures).
+2.Scalability(Add devices without degrading performance).
+3.Quality Of Service(Network works smoothly without delays).
+4.Security(Protection of data from unauthorized access).
 
-Services Offered by Computer Networks
+Services offered by Computer Networks
 E-mail
-Instant Messaging
-Video Telephony
-Storage Games
-File sharing
+Instant messaging
+Video-Telephony
 Storage Service
-Web Browsing
-VOIP(Voice over Internet Protocol) etc.
+Online Games
+File Sharing 
+Web browsing
+VOIP(Voice over Internet Protocol)etc.
 
 Protocol
 Protocol is a set of rules for effective communication.
 The sender and receiver follow a common set of rules to communicate.
-Protocol generally contain information about: sender, receiver and communication Media
+A protocol generally contain information about sender, receiver and communication media.
 
-Elements of a Protocol are:
-Message Encoding
+Elements of a protocol
+Message Encoding 
 Message Formatting and Encapsulation
 Message Size
 Message Timing
 Message Delivery Options
-
-Types Of Data Flow:
-Simple Duplex-One way communication(e.g Keyboard-> CPU)
-Half Duplex-Two way communication but only one direction at a time(e.g Walkie-Talkie)
-Full Duplex-Two way communication simultaneously(e.g Telephone).
-
-Types Of Networks   PEE LE CHU* MOMOS WALA
-PAN(Personal Area Network)
-A small network for one person.
-Technology- Bluetooth, IRDa, Zigbee
-Range- 1-100m
-Transmission speed- Very high
-Area- Within a room
-Ownership- Private
-Maintenance- Very Easy
-Error rate and Cost- Very low
-
-LAN(Local Area Network)
-A network inside one building or office.
-Technology- Ethernet, Wi-Fi
-Range- Upto 2 km.
-Transmission speed- Very high
-Area- Within office bhuilding
-Ownership- Private'
-Maintenance- Easy
-Error rate and Cost- Low
-
-CAN(Campus Area Network)
-A network inside building or campus.
-Technology- Ethernet, Wi-Fi, Fibre Optics
-Range- 1-5km.
-Transmission speed- High
-Area- Within University,office etc.
-Ownership- Private
-Maintenance- Moderate
-Error rate and Cost- Moderate
-
-MAN(Metropolitan Area Network)
-A network that covers one city
-Technology- Ethernet, Wi-Fi, Fibre Optics
-Range- 5-50km.
-Transmission speed- Average
-Area- Within cities
-Ownership- Private
-Maintenance- Difficult
-Error rate and Cost- 
-
-
-
-
-
-
-
