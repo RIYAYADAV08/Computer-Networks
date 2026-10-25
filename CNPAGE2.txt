@@ -1,0 +1,59 @@
+Types of Data flow:  
+1.Simplex- One way communication(Eg- Keyboard to CPU).
+2.Half-Duplex- Two way communication, but only one direction at a time.(Eg- Walkie-Talkie).
+3.Full-Duplex- Two way communication simultaneously.(Eg- Telephone).
+
+Personal area network(PAN)
+It connects personal devices within a short range.
+Ex-Bluetooth
+Technology- Bluetooth,Irda, Zigbee
+Range- 1-100m
+Transmission Speed- Very High
+Ownership- Private
+Area- Within a room
+Maintenance- Very easy
+Error rate and cost- Very low
+
+Local Area Network(LAN)
+It connects within a small area, like an office or building.
+Ex-School
+Technology-Ethernet, Wi-fi
+Range- upto 2km
+Transmission Speed- Very High
+Ownership- Private
+Area- Within office building
+Maintenance- Easy
+Error rate and cost- low
+
+Campus Area Network(CAN)
+It connects networks within campus or university.
+Ex-University
+Technology-Ethernet, Wi-fi, Fiber optics
+Range- 1-5km
+Transmission Speed- High
+Ownership- Private
+Area- Within university,office
+Maintenance- Moderate
+Error rate and cost- Moderate
+
+Metropolitan Area Network(MAN)
+It connects networks across a city.
+Ex- City
+Technology-Metro Ethernet, MPLS
+Range- 5-50KM
+Transmission Speed- Average
+Ownership- Private/Public
+Area- Within cities like Mumbai
+Maintenance- Difficult
+Error rate and cost- High
+
+Wide Area Network(WAN)
+It connects networks accross countries or the world.
+Ex- Internet
+Technology-Leased Line, VPN, MPLS, Satellite
+Range- Avove 50km to global range
+Transmission Speed- Low
+Ownership- Private/Public
+Area- Within countries
+Maintenance- Very Difficult
+Error rate and cost- Very High
